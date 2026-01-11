@@ -1,0 +1,10 @@
+
+{
+  "name": "EcoTrack: Carbon Footprint Tracker",
+  "description": "A comprehensive tool to monitor, calculate, and reduce your individual carbon footprint across travel, electricity, and household energy.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera",
+    "microphone"
+  ]
+}
